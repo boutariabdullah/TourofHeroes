@@ -13,5 +13,8 @@ export class HeroesComponent {
     name: 'Windstorm'
   };
    heroes =HEROES;
+
+  // added a comment
+
 }
 
